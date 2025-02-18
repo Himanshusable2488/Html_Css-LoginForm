@@ -57,11 +57,6 @@ No additional setup is required. Just open the `index.html` file in any modern w
 
 ---
 
-## ✨ Preview
-
-![Login Form Preview](staticShot.png)
-
----
 
 ## 💡 Future Improvements
 
