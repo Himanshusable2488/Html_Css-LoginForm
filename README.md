@@ -31,7 +31,7 @@ This is a simple **Login Form** built using **HTML, CSS, and JavaScript**. The f
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Himanshusable2488/Html_Css-LoginForm.git
    ```
 
 2. Navigate to the project directory:
