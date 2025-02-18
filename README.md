@@ -59,7 +59,7 @@ No additional setup is required. Just open the `index.html` file in any modern w
 
 ## ✨ Preview
 
-![Login Form Preview](Screenshot 2025-02-18 184910.png)
+![Login Form Preview](staticShot.png)
 
 ---
 
